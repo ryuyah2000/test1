@@ -1,4 +1,3 @@
-test1
-=====
+Ryuya's Game
 
-This is my game.
+THIS GAME IS MADE BY RYUYA
